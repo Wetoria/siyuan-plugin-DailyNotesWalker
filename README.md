@@ -4,7 +4,7 @@ Download this repo to your plugin folder, and use it.
 
 Just writed to let myself be feel. If you want some more function, create an issue.
 
-The default shortcuts is `⌥⌘↑` and `⌥⌘↓`, you can set them is settings of Siyuan.
+The default shortcuts is `⌥⌘↑` and `⌥⌘↓`, you can set them in settings of Siyuan.
 
 ---
 
